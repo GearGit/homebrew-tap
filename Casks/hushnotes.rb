@@ -1,6 +1,6 @@
 cask "hushnotes" do
-  version "1.1.2"
-  sha256 "f3beec01b5aa438899a3b3532f3135c0e963338d680abcaec2a6c127a081feef"
+  version "1.1.3"
+  sha256 "466e90e1aac94a955d02fcf7ed627139bf8f13c109dd1d8fa04a6c5c796aebf8"
 
   url "https://hushnotes.app/download/HushNotes-#{version}.zip"
   name "HushNotes"
